@@ -2,7 +2,7 @@ name: Daily Timetable
 
 on:
   schedule:
-    - cron: "30 1 * * *"
+   - cron: "47 1 * * *"
   workflow_dispatch:
 
 jobs:
